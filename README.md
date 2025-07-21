@@ -1,4 +1,10 @@
-# DIO - Trilha .NET - Explorando a linguagem C#
+# Resolução do desafio feito por Jorge Honorio.
+
+Foi implantado o seguinte código para resolução do desafio:  
+ - Implementação do código de adicionar hóspedes à reserva com um lançamento de exceção se a quantidade de hóspedes estiver maior que a capacidade da suíte.  
+ - Código para retorno da quantidade de hóspedes e do cálculo do valor total da diária com o desconto de 10% para reserva com mais de 10 dias de duração.
+
+# DIO - Trilha .NET - Explorando a linguagem C# (README Original)
 www.dio.me
 
 ## Desafio de projeto
